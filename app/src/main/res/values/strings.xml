@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency calculator</string>
+    <string name="calculate">calculate</string>
+    <string name="money_amount">Money amount</string>
+    <string name="output_text" />
+    <string name="info_text_1">Enter the amount to be converted</string>
+    <string name="info_text_2">Choose to the left to convert from USD to euro. Select to the right to convert from euro to USD.</string>
+    <string name="to_usd">To USD</string>
+    <string name="to_euro">To euro</string>
+</resources>
